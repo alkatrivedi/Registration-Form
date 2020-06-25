@@ -1,0 +1,1 @@
+I made a simple registration form using HTML without CSS and JavaScript. In this form all the informations to be filled are mandatory except birthday.
